@@ -1,2 +1,4 @@
-# Block-Letters
-Python3 - Block Letters project (Beginner)
+# Python-Beginner
+Python3 - Beginner Projects
+- Block Letters
+- Receipt for Lovely LoveSeats
