@@ -6,3 +6,5 @@ Python3 - Beginner Projects
 - Sal's Shipping
 - Gradebook
 - Len's Slice
+- Carly's Clippers
+- Getting Ready for Physics Class
