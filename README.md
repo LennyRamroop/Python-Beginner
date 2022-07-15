@@ -9,3 +9,5 @@ Python3 - Beginner Projects
 - Carly's Clippers
 - Getting Ready for Physics Class
 - Thread Shed
+- Scrabble
+- Hacking The Fender
